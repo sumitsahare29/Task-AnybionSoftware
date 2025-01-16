@@ -4,7 +4,7 @@
 This is a simple console-based Library Management System developed in Java. It allows users to manage books in a library by adding new books, issuing books to users, returning books, displaying available books, and searching for books by title or author.
 
 ## Features
-- **Add New Book**: Add books with a unique ID, title, and author.
+- **Add Book**: Add books with a unique ID, title, and author.
 - **Issue Book**: Issue a book to a user and track its due date.
 - **Return Book**: Return an issued book and update its status.
 - **Display Available Books**: View all books that are not currently issued.
@@ -12,7 +12,7 @@ This is a simple console-based Library Management System developed in Java. It a
 
 ## Class Overview
 
-- **Book Class**: 
+- **Books Class**: 
   - Represents a book with attributes such as ID, title, author, issued status, and due date.
   - Methods include getters, setters, and a method to display book details.
 
